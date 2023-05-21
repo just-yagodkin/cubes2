@@ -1,5 +1,5 @@
-[15:49:41] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.19
-[15:49:41] [main/INFO]: Loading 48 mods:
+[19:53:29] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.19
+[19:53:29] [main/INFO]: Loading 48 mods:
 	- appleskin 2.4.3+mc1.19.4
 	- architectury 8.1.80
 	- cloth-config 10.0.96
@@ -60,172 +60,88 @@
 	- roughlyenoughitems 11.0.597
 	   \-- error_notifier 1.0.9
 	- xaeroworldmap 1.30.1
-[15:49:41] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/user/Desktop/vanilla19/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[15:49:42] [main/INFO]: Compatibility level set to JAVA_17
-[15:49:47] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[15:49:47] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
-[15:49:47] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
-[15:49:47] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
-[15:49:47] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
-[15:49:47] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
-[15:49:47] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
-[15:49:47] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[15:49:47] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[15:49:47] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[15:49:47] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[15:49:47] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
-[15:49:47] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[15:49:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:49:48] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[15:49:50] [main/INFO]: Loaded 7 recipes
-[15:49:50] [main/INFO]: Loaded 2186 advancements
-[15:49:50] [main/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
-[15:49:50] [main/INFO]: [REI] REIPlugin starting main-reload for START.
-[15:49:50] [main/INFO]: [REI] Plugins (3):
-[15:49:50] [main/INFO]: [REI]  - (-100,00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[15:49:50] [main/INFO]: [REI]  - (0,00) FabricFluidAPISupportPlugin
-[15:49:50] [main/INFO]: [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[15:49:50] [main/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
-[15:49:50] [main/INFO]: [REI] ########################################
-[15:49:50] [main/INFO]: [REI] REIServerPlugin starting main-reload for START.
-[15:49:50] [main/INFO]: [REI] Plugins (3):
-[15:49:50] [main/INFO]: [REI]  - (-100,00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[15:49:50] [main/INFO]: [REI]  - (0,00) FabricFluidAPISupportPlugin
-[15:49:50] [main/INFO]: [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[15:49:50] [main/INFO]: [REI] ########################################
-[15:49:50] [main/INFO]: [REI] REIPlugin finished post-reload for START in 666.1 ?s, totaling 34.90 ms.
-[15:49:50] [main/INFO]: [REI] REIServerPlugin finished post-reload for START in 329.0 ?s, totaling 3.256 ms.
-[15:49:50] [main/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[15:49:50] [main/INFO]: [REI] REIPlugin starting main-reload for END.
-[15:49:50] [main/INFO]: [REI] Plugins (3):
-[15:49:50] [main/INFO]: [REI]  - (-100,00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[15:49:50] [main/INFO]: [REI]  - (0,00) FabricFluidAPISupportPlugin
-[15:49:50] [main/INFO]: [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[15:49:50] [main/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[15:49:51] [main/INFO]: [REI] ----------------------------------------
-[15:49:51] [main/INFO]: [REI] REIServerPlugin starting main-reload for END.
-[15:49:51] [main/INFO]: [REI] Plugins (3):
-[15:49:51] [main/INFO]: [REI]  - (-100,00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[15:49:51] [main/INFO]: [REI]  - (0,00) FabricFluidAPISupportPlugin
-[15:49:51] [main/INFO]: [REI]  - (0,00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[15:49:51] [main/INFO]: [REI] ----------------------------------------
-[15:49:51] [main/INFO]: [REI] REIPlugin finished post-reload for END in 241.1 ?s, totaling 26.09 ms.
-[15:49:51] [main/INFO]: [REI] REIServerPlugin finished post-reload for END in 233.4 ?s, totaling 7.329 ms.
-[15:49:51] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 1.535 ms
-[15:49:51] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[15:49:51] [Server thread/INFO]: Loading properties
-[15:49:51] [Server thread/INFO]: Default game type: SURVIVAL
-[15:49:51] [Server thread/INFO]: Generating keypair
-[15:49:51] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Неверный дескриптор
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
-	at java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
-	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
-	at net.minecraft.class_3176$1.run(class_3176.java:89) ~[server-intermediary.jar:?]
-[15:49:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:49:51] [Server thread/INFO]: Using default channel type
-[15:49:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:49:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:49:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:49:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:49:52] [Server thread/INFO]: Preparing level "world"
-[15:49:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:49:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:49:55] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[15:49:55] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[15:49:55] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[15:49:55] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:49:55] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[15:49:56] [Worker-Main-4/INFO]: Preparing spawn area: 34%
-[15:49:56] [Server thread/INFO]: Time elapsed: 3294 ms
-[15:49:56] [Server thread/INFO]: Done (4.363s)! For help, type "help"
-[15:49:56] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[15:49:59] [Server thread/INFO]: Vasiliy[/26.78.195.110:51726] logged in with entity id 309 at (93.89989848535889, 122.17675927506424, 50.873387970194685)
-[15:49:59] [Server thread/INFO]: Vasiliy joined the game
-[15:51:43] [Server thread/INFO]: max1k[/26.189.103.180:64431] logged in with entity id 815 at (99.69929232975447, 121.0, 49.44974219138335)
-[15:51:43] [Server thread/INFO]: max1k joined the game
-[15:52:09] [Server thread/INFO]: max1k lost connection: Disconnected
-[15:52:09] [Server thread/INFO]: max1k left the game
-[15:53:58] [Server thread/INFO]: max1k[/26.189.103.180:64533] logged in with entity id 1195 at (93.30758182937707, 121.0, 48.39683006193637)
-[15:53:58] [Server thread/INFO]: max1k joined the game
-[15:56:53] [Server thread/INFO]: max1k lost connection: Disconnected
-[15:56:53] [Server thread/INFO]: max1k left the game
-[16:00:24] [Server thread/INFO]: max1k[/26.189.103.180:64786] logged in with entity id 2303 at (101.30000001192093, 120.9375, 52.16819643225632)
-[16:00:24] [Server thread/INFO]: max1k joined the game
-[16:02:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-39, y=77, z=29} class_2338{x=-40, y=81, z=34}
-[16:02:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-39, y=77, z=29} class_2338{x=-40, y=81, z=34}
-[16:02:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-39, y=77, z=29} class_2338{x=-40, y=81, z=34}
-[16:02:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-39, y=77, z=29} class_2338{x=-40, y=81, z=34}
-[16:02:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-39, y=77, z=29} class_2338{x=-40, y=81, z=34}
-[16:02:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-39, y=77, z=29} class_2338{x=-40, y=81, z=34}
-[16:02:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-39, y=77, z=29} class_2338{x=-40, y=81, z=34}
-[16:02:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-39, y=77, z=29} class_2338{x=-40, y=81, z=34}
-[16:02:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-39, y=77, z=29} class_2338{x=-40, y=81, z=34}
-[16:02:45] [Server thread/INFO]: max1k lost connection: Disconnected
-[16:02:45] [Server thread/INFO]: max1k left the game
-[16:25:14] [Server thread/INFO]: Vasiliy lost connection: Disconnected
-[16:25:14] [Server thread/INFO]: Vasiliy left the game
-[16:25:23] [Server thread/INFO]: Vasiliy[/26.78.195.110:51821] logged in with entity id 7122 at (185.21880688695828, -27.0, 23.65788917135709)
-[16:25:23] [Server thread/INFO]: Vasiliy joined the game
-[16:29:10] [Server thread/INFO]: max1k[/26.189.103.180:65534] logged in with entity id 7832 at (93.63591491609625, 120.0, 45.99703501816785)
-[16:29:10] [Server thread/INFO]: max1k joined the game
-[16:38:58] [Server thread/INFO]: max1k lost connection: Disconnected
-[16:38:58] [Server thread/INFO]: max1k left the game
-[16:39:14] [Server thread/INFO]: max1k[/26.189.103.180:49387] logged in with entity id 10917 at (129.21893505450967, 122.0, 59.605444779201406)
-[16:39:14] [Server thread/INFO]: max1k joined the game
-[17:01:49] [Server thread/INFO]: [Not Secure] <max1k> 99 120 34
-[17:02:11] [Server thread/INFO]: [Not Secure] <max1k> 21 94 3
-[17:04:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=26, y=98, z=11} class_2338{x=26, y=96, z=10}
-[17:04:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=26, y=98, z=11} class_2338{x=26, y=96, z=10}
-[17:27:37] [Server thread/INFO]: max1k was slain by Iron Golem
-[17:31:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=82, y=127, z=41} class_2338{x=84, y=125, z=42}
-[17:51:22] [Server thread/INFO]: [Not Secure] <Vasiliy> -857 586
-[17:53:02] [Server thread/INFO]: [Not Secure] <max1k> 20 0
-[17:54:58] [Server thread/INFO]: max1k was burnt to a crisp whilst fighting Ghast
-[17:58:09] [Server thread/INFO]: Villager class_1646['Fletcher'/169, l='ServerLevel[world]', x=117.10, y=121.60, z=65.03] died, message: 'Fletcher tried to swim in lava'
-[17:58:59] [Server thread/WARN]: Vasiliy moved too quickly! 6.9061677908930506,-1.0,-7.590022577192542
-[17:59:05] [Server thread/INFO]: Villager class_1646['Fletcher'/112, l='ServerLevel[world]', x=100.46, y=126.80, z=71.91] died, message: 'Fletcher tried to swim in lava'
-[17:59:47] [Server thread/INFO]: Villager class_1646['Fletcher'/94, l='ServerLevel[world]', x=93.49, y=117.00, z=48.53] died, message: 'Fletcher was slain by Zombie'
-[18:00:14] [Server thread/INFO]: Villager class_1646['Fletcher'/89, l='ServerLevel[world]', x=96.11, y=118.00, z=48.27] died, message: 'Fletcher was slain by Zombie Villager'
-[18:00:17] [Server thread/INFO]: Villager class_1646['Armorer'/134, l='ServerLevel[world]', x=95.25, y=117.77, z=48.70] died, message: 'Armorer was slain by Zombie Villager'
-[18:00:24] [Server thread/INFO]: max1k was blown up by Creeper
-[18:00:26] [Server thread/INFO]: Villager class_1646['Weaponsmith'/135, l='ServerLevel[world]', x=91.65, y=117.00, z=48.65] died, message: 'Weaponsmith was slain by Zombie'
-[18:00:45] [Server thread/INFO]: Villager class_1646['Toolsmith'/93, l='ServerLevel[world]', x=92.46, y=117.00, z=44.63] died, message: 'Toolsmith was slain by Zombie Villager'
-[18:00:57] [Server thread/INFO]: Villager class_1646['Farmer'/90, l='ServerLevel[world]', x=95.67, y=117.64, z=39.88] died, message: 'Farmer was slain by Zombie Villager'
-[18:01:08] [Server thread/INFO]: Villager class_1646['Librarian'/91, l='ServerLevel[world]', x=93.51, y=117.48, z=42.57] died, message: 'Librarian was slain by Zombie Villager'
-[18:08:13] [Server thread/WARN]: Vasiliy moved too quickly! 0.7587051102027544,-22.0,3.328053788394584
-[18:08:13] [Server thread/WARN]: Vasiliy moved too quickly! 0.7587051102027544,-22.0,3.328053788394584
-[18:08:13] [Server thread/WARN]: Vasiliy moved too quickly! 0.7587051102027544,-22.0,3.328053788394584
-[18:08:13] [Server thread/WARN]: Vasiliy moved too quickly! 0.7587051102027544,-22.0,3.328053788394584
-[18:08:16] [Server thread/WARN]: Vasiliy moved too quickly! -5.943540310021717,-5.0,6.910880202441888
-[18:22:22] [Server thread/INFO]: max1k lost connection: Disconnected
-[18:22:22] [Server thread/INFO]: max1k left the game
-[18:23:49] [Server thread/INFO]: max1k[/26.189.103.180:51729] logged in with entity id 39231 at (86.77917980992483, 128.5, 57.023228845182366)
-[18:23:49] [Server thread/INFO]: max1k joined the game
-[18:36:28] [Server thread/INFO]: max1k was blown up by Creeper
-[18:38:08] [Server thread/INFO]: max1k lost connection: Disconnected
-[18:38:08] [Server thread/INFO]: max1k left the game
-[18:39:30] [Server thread/INFO]: max1k[/26.189.103.180:64595] logged in with entity id 42232 at (92.543375114388, 117.0, 43.624078384465754)
-[18:39:31] [Server thread/INFO]: max1k joined the game
-[18:40:36] [Server thread/INFO]: max1k lost connection: Disconnected
-[18:40:36] [Server thread/INFO]: max1k left the game
-[18:45:38] [Server thread/INFO]: Vasiliy lost connection: Disconnected
-[18:45:38] [Server thread/INFO]: Vasiliy left the game
-[20:44:29] [Server thread/INFO]: Stopping server
-[20:44:29] [Server thread/INFO]: Saving players
-[20:44:29] [Server thread/INFO]: Saving worlds
-[20:44:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:44:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:44:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:44:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:44:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:44:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:44:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:53:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/cubes2/Desktop/vanilla19/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[19:53:29] [main/INFO]: Compatibility level set to JAVA_17
+[19:53:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[19:53:38] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[19:53:38] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[19:53:38] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[19:53:38] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[19:53:38] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[19:53:38] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[19:53:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[19:53:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[19:53:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[19:53:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[19:53:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
+[19:53:38] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[19:53:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:53:39] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[19:53:44] [main/INFO]: Loaded 7 recipes
+[19:53:44] [main/INFO]: Loaded 2186 advancements
+[19:53:44] [main/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[19:53:44] [main/INFO]: [REI] REIPlugin starting main-reload for START.
+[19:53:44] [main/INFO]: [REI] Plugins (3):
+[19:53:44] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[19:53:44] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[19:53:44] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[19:53:44] [main/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[19:53:44] [main/INFO]: [REI] ########################################
+[19:53:44] [main/INFO]: [REI] REIServerPlugin starting main-reload for START.
+[19:53:44] [main/INFO]: [REI] Plugins (3):
+[19:53:44] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[19:53:44] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[19:53:44] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[19:53:44] [main/INFO]: [REI] ########################################
+[19:53:44] [main/INFO]: [REI] REIPlugin finished post-reload for START in 1.428 ms, totaling 46.31 ms.
+[19:53:44] [main/INFO]: [REI] REIServerPlugin finished post-reload for START in 820.7 Ојs, totaling 8.809 ms.
+[19:53:44] [main/INFO]: [REI] ----------------------------------------
+[19:53:44] [main/INFO]: [REI] REIPlugin starting main-reload for END.
+[19:53:44] [main/INFO]: [REI] Plugins (3):
+[19:53:44] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[19:53:44] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[19:53:44] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[19:53:44] [main/INFO]: [REI] ----------------------------------------
+[19:53:45] [main/INFO]: [REI] ########################################
+[19:53:45] [main/INFO]: [REI] REIServerPlugin starting main-reload for END.
+[19:53:45] [main/INFO]: [REI] Plugins (3):
+[19:53:45] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[19:53:45] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[19:53:45] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[19:53:45] [main/INFO]: [REI] ########################################
+[19:53:45] [main/INFO]: [REI] REIPlugin finished post-reload for END in 805.7 Ојs, totaling 33.00 ms.
+[19:53:45] [main/INFO]: [REI] REIServerPlugin finished post-reload for END in 768.3 Ојs, totaling 10.84 ms.
+[19:53:45] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 1.885 ms
+[19:53:45] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[19:53:45] [Server thread/INFO]: Loading properties
+[19:53:45] [Server thread/INFO]: Default game type: SURVIVAL
+[19:53:45] [Server thread/INFO]: Generating keypair
+[19:53:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:53:45] [Server thread/INFO]: Using epoll channel type
+[19:53:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:53:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:53:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:53:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:53:45] [Server thread/INFO]: Preparing level "world"
+[19:53:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:53:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:53:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:53:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:53:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:53:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:53:58] [Worker-Main-1/INFO]: Preparing spawn area: 46%
+[19:53:58] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[19:53:58] [Server thread/INFO]: Time elapsed: 8656 ms
+[19:53:58] [Server thread/INFO]: Done (12.788s)! For help, type "help"
+[19:53:58] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
