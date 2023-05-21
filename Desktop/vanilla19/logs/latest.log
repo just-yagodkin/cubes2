@@ -1,5 +1,5 @@
-[19:53:29] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.19
-[19:53:29] [main/INFO]: Loading 48 mods:
+[20:08:09] [main/INFO]: Loading Minecraft 1.19.4 with Fabric Loader 0.14.19
+[20:08:10] [main/INFO]: Loading 48 mods:
 	- appleskin 2.4.3+mc1.19.4
 	- architectury 8.1.80
 	- cloth-config 10.0.96
@@ -60,88 +60,104 @@
 	- roughlyenoughitems 11.0.597
 	   \-- error_notifier 1.0.9
 	- xaeroworldmap 1.30.1
-[19:53:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/cubes2/Desktop/vanilla19/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[19:53:29] [main/INFO]: Compatibility level set to JAVA_17
-[19:53:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[19:53:38] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
-[19:53:38] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
-[19:53:38] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
-[19:53:38] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
-[19:53:38] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
-[19:53:38] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
-[19:53:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[19:53:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[19:53:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[19:53:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[19:53:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
-[19:53:38] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[19:53:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:53:39] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[19:53:44] [main/INFO]: Loaded 7 recipes
-[19:53:44] [main/INFO]: Loaded 2186 advancements
-[19:53:44] [main/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
-[19:53:44] [main/INFO]: [REI] REIPlugin starting main-reload for START.
-[19:53:44] [main/INFO]: [REI] Plugins (3):
-[19:53:44] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[19:53:44] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[19:53:44] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[19:53:44] [main/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
-[19:53:44] [main/INFO]: [REI] ########################################
-[19:53:44] [main/INFO]: [REI] REIServerPlugin starting main-reload for START.
-[19:53:44] [main/INFO]: [REI] Plugins (3):
-[19:53:44] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[19:53:44] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[19:53:44] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[19:53:44] [main/INFO]: [REI] ########################################
-[19:53:44] [main/INFO]: [REI] REIPlugin finished post-reload for START in 1.428 ms, totaling 46.31 ms.
-[19:53:44] [main/INFO]: [REI] REIServerPlugin finished post-reload for START in 820.7 μs, totaling 8.809 ms.
-[19:53:44] [main/INFO]: [REI] ----------------------------------------
-[19:53:44] [main/INFO]: [REI] REIPlugin starting main-reload for END.
-[19:53:44] [main/INFO]: [REI] Plugins (3):
-[19:53:44] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[19:53:44] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[19:53:44] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[19:53:44] [main/INFO]: [REI] ----------------------------------------
-[19:53:45] [main/INFO]: [REI] ########################################
-[19:53:45] [main/INFO]: [REI] REIServerPlugin starting main-reload for END.
-[19:53:45] [main/INFO]: [REI] Plugins (3):
-[19:53:45] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[19:53:45] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[19:53:45] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[19:53:45] [main/INFO]: [REI] ########################################
-[19:53:45] [main/INFO]: [REI] REIPlugin finished post-reload for END in 805.7 μs, totaling 33.00 ms.
-[19:53:45] [main/INFO]: [REI] REIServerPlugin finished post-reload for END in 768.3 μs, totaling 10.84 ms.
-[19:53:45] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 1.885 ms
-[19:53:45] [Server thread/INFO]: Starting minecraft server version 1.19.4
-[19:53:45] [Server thread/INFO]: Loading properties
-[19:53:45] [Server thread/INFO]: Default game type: SURVIVAL
-[19:53:45] [Server thread/INFO]: Generating keypair
-[19:53:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:53:45] [Server thread/INFO]: Using epoll channel type
-[19:53:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:53:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:53:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:53:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:53:45] [Server thread/INFO]: Preparing level "world"
-[19:53:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:53:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:53:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:53:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:53:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:53:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:53:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:53:58] [Worker-Main-1/INFO]: Preparing spawn area: 46%
-[19:53:58] [Worker-Main-2/INFO]: Preparing spawn area: 89%
-[19:53:58] [Server thread/INFO]: Time elapsed: 8656 ms
-[19:53:58] [Server thread/INFO]: Done (12.788s)! For help, type "help"
-[19:53:58] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[20:08:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/cubes2/Desktop/vanilla19/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[20:08:10] [main/INFO]: Compatibility level set to JAVA_17
+[20:08:19] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[20:08:19] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[20:08:19] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[20:08:19] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[20:08:19] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[20:08:19] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[20:08:19] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[20:08:19] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[20:08:19] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[20:08:19] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[20:08:19] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[20:08:19] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
+[20:08:19] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[20:08:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:08:20] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[20:08:24] [main/INFO]: Loaded 7 recipes
+[20:08:24] [main/INFO]: Loaded 2186 advancements
+[20:08:25] [main/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[20:08:25] [main/INFO]: [REI] REIPlugin starting main-reload for START.
+[20:08:25] [main/INFO]: [REI] Plugins (3):
+[20:08:25] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[20:08:25] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[20:08:25] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[20:08:25] [main/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[20:08:25] [main/INFO]: [REI] ----------------------------------------
+[20:08:25] [main/INFO]: [REI] REIServerPlugin starting main-reload for START.
+[20:08:25] [main/INFO]: [REI] Plugins (3):
+[20:08:25] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[20:08:25] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[20:08:25] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[20:08:25] [main/INFO]: [REI] ----------------------------------------
+[20:08:25] [main/INFO]: [REI] REIPlugin finished post-reload for START in 1.289 ms, totaling 42.89 ms.
+[20:08:25] [main/INFO]: [REI] REIServerPlugin finished post-reload for START in 768.5 μs, totaling 6.357 ms.
+[20:08:25] [main/INFO]: [REI] ----------------------------------------
+[20:08:25] [main/INFO]: [REI] REIPlugin starting main-reload for END.
+[20:08:25] [main/INFO]: [REI] Plugins (3):
+[20:08:25] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[20:08:25] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[20:08:25] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[20:08:25] [main/INFO]: [REI] ----------------------------------------
+[20:08:25] [main/INFO]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[20:08:25] [main/INFO]: [REI] REIServerPlugin starting main-reload for END.
+[20:08:25] [main/INFO]: [REI] Plugins (3):
+[20:08:25] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[20:08:25] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[20:08:25] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[20:08:25] [main/INFO]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[20:08:25] [main/INFO]: [REI] REIPlugin finished post-reload for END in 715.2 μs, totaling 39.72 ms.
+[20:08:25] [main/INFO]: [REI] REIServerPlugin finished post-reload for END in 600.8 μs, totaling 15.38 ms.
+[20:08:25] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 2.027 ms
+[20:08:25] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[20:08:25] [Server thread/INFO]: Loading properties
+[20:08:25] [Server thread/INFO]: Default game type: SURVIVAL
+[20:08:25] [Server thread/INFO]: Generating keypair
+[20:08:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:08:25] [Server thread/INFO]: Using epoll channel type
+[20:08:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:08:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:08:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:08:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:08:26] [Server thread/INFO]: Preparing level "world"
+[20:08:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:08:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:08:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:08:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:08:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:08:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:08:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:08:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:08:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:08:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:08:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:08:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:08:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:08:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:08:36] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[20:08:36] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[20:08:37] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[20:08:37] [Worker-Main-3/INFO]: Preparing spawn area: 12%
+[20:08:38] [Worker-Main-1/INFO]: Preparing spawn area: 54%
+[20:08:38] [Worker-Main-1/INFO]: Preparing spawn area: 63%
+[20:08:39] [Server thread/INFO]: Time elapsed: 9373 ms
+[20:08:39] [Server thread/INFO]: Done (13.269s)! For help, type "help"
+[20:08:39] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[20:10:49] [Server thread/INFO]: Vasiliy[/[0:0:0:0:0:0:0:1%0]:56190] logged in with entity id 229 at (91.66616347161232, 130.5, 55.685281362693885)
+[20:10:49] [Server thread/INFO]: Vasiliy joined the game
+[20:11:18] [Server thread/INFO]: Vasiliy lost connection: Disconnected
+[20:11:18] [Server thread/INFO]: Vasiliy left the game
+[20:11:56] [Server thread/INFO]: Stopping the server
+[20:11:56] [Server thread/INFO]: Stopping server
+[20:11:56] [Server thread/INFO]: Saving players
+[20:11:56] [Server thread/INFO]: Saving worlds
+[20:11:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:11:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:11:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

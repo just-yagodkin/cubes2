@@ -1,3 +1,0 @@
-#.bin/bash
-npm i ngrok --save-dev
-./node_modules/.bin/ngrok tcp 25565
