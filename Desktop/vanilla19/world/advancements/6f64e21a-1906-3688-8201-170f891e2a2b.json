@@ -1,0 +1,894 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-05-14 19:57:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "birch_forest": "2023-05-17 22:09:33 +0300",
+      "meadow": "2023-05-17 22:10:31 +0300",
+      "river": "2023-05-17 22:08:58 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-05-14 19:58:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-05-14 19:58:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-05-14 19:58:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-05-14 19:58:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-05-14 19:58:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-05-14 19:58:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-05-14 19:58:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2023-05-14 19:58:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2023-05-14 19:58:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2023-05-14 19:58:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2023-05-14 19:59:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2023-05-14 19:59:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2023-05-14 19:59:25 +0300"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/wood_to_copper_conversion_kit": {
+    "criteria": {
+      "has_item": "2023-05-14 19:59:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-05-14 19:59:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2023-05-14 19:59:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2023-05-14 19:59:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-05-14 19:59:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2023-05-14 19:59:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-05-14 19:59:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2023-05-14 19:59:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2023-05-14 19:59:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2023-05-14 19:59:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2023-05-14 19:59:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2023-05-14 19:59:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2023-05-14 19:59:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2023-05-14 19:59:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2023-05-14 19:59:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2023-05-14 19:59:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-05-14 19:59:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-05-14 20:00:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2023-05-14 20:00:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2023-05-14 20:00:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2023-05-14 20:00:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2023-05-14 20:01:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2023-05-14 20:01:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2023-05-14 20:01:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2023-05-14 20:01:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2023-05-14 20:01:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "cobblestone": "2023-05-17 22:08:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2023-05-14 20:01:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2023-05-14 20:01:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-05-14 20:01:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2023-05-14 20:01:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-05-14 20:01:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-05-14 20:01:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2023-05-14 20:01:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2023-05-14 20:01:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2023-05-14 20:01:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2023-05-14 20:02:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2023-05-14 20:02:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2023-05-14 20:02:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-05-14 20:03:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-05-14 20:03:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-05-14 20:03:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-05-14 20:03:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-05-14 20:03:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-05-14 20:03:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-05-14 20:03:58 +0300"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/storage_mutator": {
+    "criteria": {
+      "has_chest": "2023-05-14 20:04:03 +0300"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/wood_chest": {
+    "criteria": {
+      "has_previous_block": "2023-05-14 20:04:03 +0300"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/present": {
+    "criteria": {
+      "has_previous_block": "2023-05-14 20:04:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_the_recipe": "2023-05-14 20:04:03 +0300"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/vanilla_wood_mini_chest": {
+    "criteria": {
+      "has_item": "2023-05-14 20:04:03 +0300"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/moss_chest": {
+    "criteria": {
+      "has_previous_block": "2023-05-14 20:04:03 +0300"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/iron_chest": {
+    "criteria": {
+      "has_previous_block": "2023-05-14 20:04:03 +0300"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/pumpkin_chest": {
+    "criteria": {
+      "has_previous_block": "2023-05-14 20:04:03 +0300"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/bamboo_chest": {
+    "criteria": {
+      "has_previous_block": "2023-05-14 20:04:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:drowned": "2023-05-14 20:08:06 +0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:drowned": "2023-05-14 20:08:06 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/redstone_milestone": {
+    "criteria": {
+      "leveraging_synergy": "2023-05-17 22:11:42 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/root": {
+    "criteria": {
+      "sword": "2023-05-17 22:08:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/high_feet": {
+    "criteria": {
+      "meadow": "2023-05-17 22:10:31 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/stack_all_the_items": {
+    "criteria": {
+      "stone_axe": "2023-05-17 22:08:57 +0300",
+      "stone_sword": "2023-05-17 22:08:57 +0300",
+      "stone_pickaxe": "2023-05-17 22:08:57 +0300",
+      "birch_chest_boat": "2023-05-17 22:10:04 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/viking": {
+    "criteria": {
+      "axe": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/bacap_branch_end": {
+    "criteria": {
+      "crafting_table": "2023-05-17 22:08:57 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/cargo_carrier": {
+    "criteria": {
+      "boat": "2023-05-17 22:08:57 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/raidin_master": {
+    "criteria": {
+      "village_plains": "2023-05-17 22:10:54 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "stone_age": "2023-05-17 22:08:58 +0300",
+      "time_to_mine": "2023-05-17 22:08:58 +0300",
+      "time_to_chop": "2023-05-17 22:08:58 +0300",
+      "getting_wood": "2023-05-17 22:08:58 +0300",
+      "monster_hunter": "2023-05-17 22:08:58 +0300",
+      "do_you_want_to_trade": "2023-05-17 22:10:55 +0300",
+      "time_to_strike": "2023-05-17 22:08:58 +0300",
+      "leveraging_synergy": "2023-05-17 22:11:42 +0300",
+      "hot_topic": "2023-05-17 22:08:58 +0300",
+      "boaty_mcboatface": "2023-05-17 22:08:58 +0300",
+      "benchmarking": "2023-05-17 22:08:58 +0300",
+      "mining_root": "2023-05-17 22:08:58 +0300",
+      "monsters_root": "2023-05-17 22:08:58 +0300",
+      "oh_look_it_dings": "2023-05-17 22:13:15 +0300",
+      "cargo_carrier": "2023-05-17 22:08:58 +0300",
+      "wooly": "2023-05-17 22:10:16 +0300",
+      "building_root": "2023-05-17 22:08:58 +0300",
+      "just_keep_swimming": "2023-05-17 22:08:58 +0300",
+      "getting_an_upgrade": "2023-05-17 22:08:58 +0300",
+      "biomes_root": "2023-05-17 22:10:16 +0300",
+      "bacap_root": "2023-05-17 22:08:59 +0300",
+      "weaponry_root": "2023-05-17 22:08:58 +0300",
+      "viking": "2023-05-17 22:10:16 +0300",
+      "adventure_root": "2023-05-17 22:08:58 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/one_with_the_forest": {
+    "criteria": {
+      "old_growth_birch_forest": "2023-05-17 22:09:45 +0300",
+      "birch_forest": "2023-05-17 22:09:33 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:weaponry/axeman": {
+    "criteria": {
+      "stone_axe": "2023-05-17 22:10:16 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:animal/wooly": {
+    "criteria": {
+      "sheep": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/all_the_blocks": {
+    "criteria": {
+      "white_wool": "2023-05-17 22:10:16 +0300",
+      "birch_planks": "2023-05-17 22:08:57 +0300",
+      "furnace": "2023-05-17 22:08:57 +0300",
+      "cobblestone": "2023-05-17 22:08:57 +0300",
+      "crafting_table": "2023-05-17 22:08:57 +0300",
+      "birch_log": "2023-05-17 22:08:57 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:weaponry/multiclassed": {
+    "criteria": {
+      "axe": "2023-05-17 22:10:16 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/time_to_mine": {
+    "criteria": {
+      "stone_pickaxe": "2023-05-17 22:08:57 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:building/professor_birch": {
+    "criteria": {
+      "birch_planks": "2023-05-17 22:08:57 +0300",
+      "birch_chest_boat": "2023-05-17 22:10:04 +0300",
+      "birch_log": "2023-05-17 22:08:57 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:building/root": {
+    "criteria": {
+      "crafting_table": "2023-05-17 22:08:57 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/biomes_milestone": {
+    "criteria": {
+      "just_keep_swimming": "2023-05-17 22:08:58 +0300",
+      "cargo_carrier": "2023-05-17 22:08:58 +0300",
+      "root": "2023-05-17 22:10:16 +0300",
+      "boaty_mcboatface": "2023-05-17 22:08:58 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/rainbow_collection": {
+    "criteria": {
+      "white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/time_to_chop": {
+    "criteria": {
+      "stone_axe": "2023-05-17 22:08:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/explorer_of_worlds": {
+    "criteria": {
+      "birch_forest": "2023-05-17 22:09:33 +0300",
+      "meadow": "2023-05-17 22:10:31 +0300",
+      "old_growth_birch_forest": "2023-05-17 22:09:45 +0300",
+      "river": "2023-05-17 22:08:58 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:building/rock_collection": {
+    "criteria": {
+      "cobblestone": "2023-05-17 22:08:57 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/weaponry_milestone": {
+    "criteria": {
+      "viking": "2023-05-17 22:10:16 +0300",
+      "root": "2023-05-17 22:08:58 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/boaty_mcboatface": {
+    "criteria": {
+      "boat": "2023-05-17 22:08:57 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:building/yay_i_got_my_wood": {
+    "criteria": {
+      "birch_log": "2023-05-17 22:08:57 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2023-05-17 22:08:58 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/mining_milestone": {
+    "criteria": {
+      "stone_age": "2023-05-17 22:08:58 +0300",
+      "getting_an_upgrade": "2023-05-17 22:08:58 +0300",
+      "hot_topic": "2023-05-17 22:08:58 +0300",
+      "root": "2023-05-17 22:08:58 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:mining/root": {
+    "criteria": {
+      "pickaxe": "2023-05-17 22:08:57 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/root": {
+    "criteria": {
+      "killed_something": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/just_keep_swimming": {
+    "criteria": {
+      "enter_water": "2023-05-17 22:08:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/all_the_items": {
+    "criteria": {
+      "stick": "2023-05-17 22:08:57 +0300",
+      "stone_axe": "2023-05-17 22:08:57 +0300",
+      "stone_sword": "2023-05-17 22:08:57 +0300",
+      "stone_pickaxe": "2023-05-17 22:08:57 +0300",
+      "birch_chest_boat": "2023-05-17 22:10:04 +0300",
+      "mutton": "2023-05-17 22:10:16 +0300",
+      "rotten_flesh": "2023-05-17 22:08:57 +0300",
+      "cooked_salmon": "2023-05-17 22:08:57 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/monsters_milestone": {
+    "criteria": {
+      "root": "2023-05-17 22:08:58 +0300",
+      "monster_hunter": "2023-05-17 22:08:58 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:technical/fail_dragon_vs": {
+    "criteria": {
+      "enter_water": "2023-05-17 22:08:57 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/building_milestone": {
+    "criteria": {
+      "root": "2023-05-17 22:08:58 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/do_you_want_to_trade": {
+    "criteria": {
+      "village": "2023-05-17 22:10:54 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/time_to_strike": {
+    "criteria": {
+      "stone_sword": "2023-05-17 22:08:57 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/root": {
+    "criteria": {
+      "sword": "2023-05-17 22:08:57 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/hot_topic": {
+    "criteria": {
+      "furnace": "2023-05-17 22:08:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/getting_wood": {
+    "criteria": {
+      "birch_log": "2023-05-17 22:08:57 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/wet_feet": {
+    "criteria": {
+      "river": "2023-05-17 22:08:58 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/adventure_milestone": {
+    "criteria": {
+      "do_you_want_to_trade": "2023-05-17 22:10:55 +0300",
+      "root": "2023-05-17 22:08:58 +0300",
+      "oh_look_it_dings": "2023-05-17 22:13:15 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:adventure/oh_look_it_dings": {
+    "criteria": {
+      "bell": "2023-05-17 22:13:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/animal_milestone": {
+    "criteria": {
+      "wooly": "2023-05-17 22:10:16 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2023-05-17 22:10:16 +0300"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/moar_tools": {
+    "criteria": {
+      "stone_pickaxe": "2023-05-17 22:08:57 +0300",
+      "stone_axe": "2023-05-17 22:08:57 +0300"
+    },
+    "done": false
+  },
+  "blazeandcave:redstone/leveraging_synergy": {
+    "criteria": {
+      "lever": "2023-05-17 22:11:42 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3337
+}
