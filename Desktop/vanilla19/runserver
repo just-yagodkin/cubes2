@@ -1,2 +1,2 @@
 #.bin/bash
-java -jar fabric-server-mc.1.14.4-loader.0.14.19-launcher.0.11.2.jar
+java -jar fabric-server-launch.jar

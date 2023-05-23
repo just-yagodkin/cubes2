@@ -1,0 +1,85 @@
+{
+  "blazeandcave:biomes/high_feet": {
+    "criteria": {
+      "meadow": "2023-05-23 21:10:46 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:adventure/raidin_master": {
+    "criteria": {
+      "village_plains": "2023-05-23 21:18:32 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "do_you_want_to_trade": "2023-05-23 21:18:33 +0000",
+      "heart_of_darkness": "2023-05-23 21:13:34 +0000",
+      "bacap_root": "2023-05-23 21:10:35 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:mining/heart_of_darkness": {
+    "criteria": {
+      "enter_cave": "2023-05-23 21:13:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/one_with_the_forest": {
+    "criteria": {
+      "birch_forest": "2023-05-23 21:10:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-05-23 21:10:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/all_the_blocks": {
+    "criteria": {
+      "dirt": "2023-05-23 21:12:54 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/explorer_of_worlds": {
+    "criteria": {
+      "birch_forest": "2023-05-23 21:10:34 +0000",
+      "meadow": "2023-05-23 21:10:46 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2023-05-23 21:10:34 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/mining_milestone": {
+    "criteria": {
+      "heart_of_darkness": "2023-05-23 21:13:34 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:adventure/do_you_want_to_trade": {
+    "criteria": {
+      "village": "2023-05-23 21:18:32 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/adventure_milestone": {
+    "criteria": {
+      "do_you_want_to_trade": "2023-05-23 21:18:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "birch_forest": "2023-05-23 21:10:34 +0000",
+      "meadow": "2023-05-23 21:10:46 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3337
+}

@@ -71,6 +71,7 @@
     "criteria": {
       "armor_for_the_masses": "2023-05-19 20:22:39 +0000",
       "24_carrot_gold": "2023-05-16 18:33:08 +0000",
+      "enders_chest": "2023-05-23 20:49:02 +0000",
       "enchanting_root": "2023-05-18 20:15:18 +0000",
       "take_aim": "2023-05-16 18:08:28 +0000",
       "cultural_misunderstandings": "2023-05-17 18:51:39 +0000",
@@ -115,6 +116,7 @@
       "leveraging_synergy": "2023-05-17 19:29:16 +0000",
       "smooth_dude": "2023-05-16 19:07:39 +0000",
       "into_fire": "2023-05-17 21:02:29 +0000",
+      "end_bricks": "2023-05-23 20:19:49 +0000",
       "who_is_cutting_onions": "2023-05-17 18:43:27 +0000",
       "master_copper_miner": "2023-05-17 18:33:51 +0000",
       "the_ender_of_ender": "2023-05-16 19:38:55 +0000",
@@ -163,6 +165,7 @@
       "mollusc_man": "2023-05-17 18:12:31 +0000",
       "novice_enchanter": "2023-05-21 10:54:21 +0000",
       "which_came_first": "2023-05-16 17:20:23 +0000",
+      "the_ghastly_eyes": "2023-05-23 21:18:56 +0000",
       "stationary_storage": "2023-05-16 17:37:43 +0000",
       "its_original_form": "2023-05-16 17:45:59 +0000",
       "crazy_cat_lady": "2023-05-19 17:30:32 +0000",
@@ -242,6 +245,7 @@
       "a_shiny_treat": "2023-05-21 13:37:41 +0000",
       "fluorescent": "2023-05-21 15:30:29 +0000",
       "skeleton_smiter": "2023-05-21 14:13:56 +0000",
+      "even_moar_tools": "2023-05-23 20:22:46 +0000",
       "trimming_the_treetops": "2023-05-21 14:30:31 +0000",
       "isnt_it_iron_pick": "2023-05-16 17:37:16 +0000",
       "berry_nice": "2023-05-19 20:11:08 +0000",
@@ -308,6 +312,7 @@
       "gold_rush": "2023-05-16 18:26:24 +0000",
       "getting_an_upgrade": "2023-05-16 17:22:24 +0000",
       "x_bow": "2023-05-18 20:09:38 +0000",
+      "off_with_his_head": "2023-05-23 20:04:43 +0000",
       "iconic_merchandising_prop": "2023-05-16 18:56:31 +0000",
       "if_only_cats_grew_into_kittens": "2023-05-19 18:37:21 +0000",
       "sweet_dreams": "2023-05-16 17:39:25 +0000",
@@ -347,6 +352,7 @@
   "blazeandcave:challenges/all_the_blocks": {
     "criteria": {
       "gilded_blackstone": "2023-05-17 19:25:47 +0000",
+      "dragon_head": "2023-05-23 20:04:42 +0000",
       "azure_bluet": "2023-05-16 17:47:40 +0000",
       "dragon_egg": "2023-05-19 20:40:37 +0000",
       "gold_block": "2023-05-16 19:21:23 +0000",
@@ -368,6 +374,7 @@
       "oak_stairs": "2023-05-18 20:27:58 +0000",
       "nether_bricks": "2023-05-17 18:48:41 +0000",
       "polished_andesite_slab": "2023-05-19 17:42:05 +0000",
+      "purpur_block": "2023-05-23 20:19:47 +0000",
       "smithing_table": "2023-05-16 18:09:34 +0000",
       "smooth_stone": "2023-05-16 19:07:39 +0000",
       "stonecutter": "2023-05-17 18:06:59 +0000",
@@ -401,6 +408,7 @@
       "yellow_bed": "2023-05-17 18:07:16 +0000",
       "birch_planks": "2023-05-16 17:19:34 +0000",
       "smooth_basalt": "2023-05-17 15:06:31 +0000",
+      "purpur_slab": "2023-05-23 20:20:32 +0000",
       "hopper": "2023-05-21 14:10:23 +0000",
       "mossy_cobblestone": "2023-05-16 18:26:15 +0000",
       "birch_fence_gate": "2023-05-19 17:33:52 +0000",
@@ -411,6 +419,7 @@
       "grass": "2023-05-21 14:34:35 +0000",
       "end_rod": "2023-05-21 15:06:45 +0000",
       "piston": "2023-05-17 20:08:09 +0000",
+      "ender_chest": "2023-05-23 20:49:02 +0000",
       "lightning_rod": "2023-05-19 19:02:26 +0000",
       "raw_iron_block": "2023-05-21 13:52:30 +0000",
       "polished_blackstone_bricks": "2023-05-17 19:00:38 +0000",
@@ -450,6 +459,8 @@
       "birch_trapdoor": "2023-05-19 17:35:36 +0000",
       "crafting_table": "2023-05-16 17:19:38 +0000",
       "cobblestone_stairs": "2023-05-16 18:11:36 +0000",
+      "diamond_block": "2023-05-23 21:04:54 +0000",
+      "end_stone_bricks": "2023-05-23 20:19:48 +0000",
       "stone": "2023-05-16 17:45:58 +0000",
       "dark_oak_sapling": "2023-05-16 17:38:52 +0000",
       "crimson_fungus": "2023-05-17 20:59:54 +0000",
@@ -689,6 +700,7 @@
       "name_tag": "2023-05-18 21:12:02 +0000",
       "stone_pickaxe": "2023-05-16 17:22:24 +0000",
       "iron_helmet": "2023-05-16 19:08:59 +0000",
+      "music_disc_blocks": "2023-05-23 21:25:24 +0000",
       "golden_axe": "2023-05-17 21:04:11 +0000",
       "iron_leggings": "2023-05-17 21:04:23 +0000",
       "chainmail_chestplate": "2023-05-21 13:25:58 +0000",
@@ -735,6 +747,7 @@
       "crossbow": "2023-05-18 20:09:37 +0000",
       "iron_chestplate": "2023-05-17 21:05:26 +0000",
       "fire_charge": "2023-05-17 19:30:53 +0000",
+      "diamond_shovel": "2023-05-23 20:22:45 +0000",
       "golden_horse_armor": "2023-05-16 18:26:28 +0000",
       "experience_bottle": "2023-05-19 20:23:51 +0000",
       "iron_sword": "2023-05-17 21:04:01 +0000",
@@ -748,6 +761,7 @@
       "flint_and_steel": "2023-05-17 18:48:53 +0000",
       "nautilus_shell": "2023-05-17 18:12:37 +0000",
       "shield": "2023-05-17 21:05:34 +0000",
+      "glass_bottle": "2023-05-23 20:18:48 +0000",
       "leather_chestplate": "2023-05-21 12:18:39 +0000",
       "tropical_fish": "2023-05-21 13:45:30 +0000",
       "red_dye": "2023-05-21 15:25:48 +0000",
@@ -755,6 +769,7 @@
       "potato": "2023-05-21 12:33:42 +0000",
       "lapis_lazuli": "2023-05-16 18:43:10 +0000",
       "ender_pearl": "2023-05-16 19:39:05 +0000",
+      "music_disc_wait": "2023-05-23 21:27:24 +0000",
       "lava_bucket": "2023-05-16 18:37:23 +0000",
       "bread": "2023-05-16 17:33:58 +0000",
       "golden_apple": "2023-05-18 20:57:59 +0000",
@@ -768,6 +783,7 @@
       "arrow": "2023-05-16 17:43:02 +0000",
       "clay_ball": "2023-05-21 13:41:09 +0000",
       "music_disc_13": "2023-05-21 15:39:29 +0000",
+      "music_disc_11": "2023-05-23 21:27:20 +0000",
       "porkchop": "2023-05-17 20:54:30 +0000",
       "shears": "2023-05-21 14:30:21 +0000",
       "splash_potion": "2023-05-17 21:05:33 +0000",
@@ -834,6 +850,7 @@
       "diamond_chestplate": "2023-05-16 19:18:20 +0000",
       "stone_pickaxe": "2023-05-16 17:22:24 +0000",
       "iron_helmet": "2023-05-16 19:08:59 +0000",
+      "music_disc_blocks": "2023-05-23 21:25:24 +0000",
       "golden_axe": "2023-05-17 21:04:11 +0000",
       "iron_leggings": "2023-05-17 21:04:23 +0000",
       "chainmail_chestplate": "2023-05-21 13:25:58 +0000",
@@ -859,11 +876,14 @@
       "diamond_pickaxe": "2023-05-16 18:56:30 +0000",
       "bone": "2023-05-21 14:13:56 +0000",
       "golden_carrot": "2023-05-16 18:58:49 +0000",
+      "sugar_cane": "2023-05-23 19:54:40 +0000",
       "music_disc_cat": "2023-05-17 15:46:14 +0000",
       "crossbow": "2023-05-18 20:09:37 +0000",
       "iron_chestplate": "2023-05-17 21:05:26 +0000",
+      "diamond_shovel": "2023-05-23 20:22:45 +0000",
       "golden_horse_armor": "2023-05-16 18:26:28 +0000",
       "iron_sword": "2023-05-17 21:04:01 +0000",
+      "firework_rocket": "2023-05-23 19:54:51 +0000",
       "golden_leggings": "2023-05-21 12:53:40 +0000",
       "cookie": "2023-05-16 17:34:26 +0000",
       "birch_boat": "2023-05-16 17:24:56 +0000",
@@ -874,6 +894,7 @@
       "iron_ingot": "2023-05-16 18:55:53 +0000",
       "potato": "2023-05-21 12:33:42 +0000",
       "lapis_lazuli": "2023-05-16 19:34:41 +0000",
+      "music_disc_wait": "2023-05-23 21:27:24 +0000",
       "lava_bucket": "2023-05-16 18:37:23 +0000",
       "bread": "2023-05-16 17:34:09 +0000",
       "tropical_fish_bucket": "2023-05-21 13:47:07 +0000",
@@ -882,6 +903,7 @@
       "arrow": "2023-05-16 17:43:02 +0000",
       "clay_ball": "2023-05-21 13:42:37 +0000",
       "music_disc_13": "2023-05-21 15:39:29 +0000",
+      "music_disc_11": "2023-05-23 21:27:20 +0000",
       "shears": "2023-05-21 14:30:21 +0000",
       "splash_potion": "2023-05-17 21:05:33 +0000",
       "enchanted_book": "2023-05-16 18:26:29 +0000",
@@ -917,6 +939,7 @@
       "enchanter": "2023-05-18 19:49:29 +0000",
       "gi_geode": "2023-05-16 19:28:09 +0000",
       "deep_slate_nine": "2023-05-16 18:18:18 +0000",
+      "even_moar_tools": "2023-05-23 20:22:46 +0000",
       "thats_the_point": "2023-05-16 19:44:30 +0000",
       "suit_up": "2023-05-16 19:09:08 +0000",
       "stone_age": "2023-05-16 17:22:16 +0000",
@@ -1333,6 +1356,7 @@
       "still_talking": "2023-05-19 19:07:13 +0000",
       "skeleton_smiter": "2023-05-21 14:13:56 +0000",
       "mollusc_man": "2023-05-17 18:12:31 +0000",
+      "the_ghastly_eyes": "2023-05-23 21:18:56 +0000",
       "the_phantom_menace": "2023-05-19 19:30:58 +0000",
       "spooky_skeleton": "2023-05-16 18:38:15 +0000",
       "a_watery_grave": "2023-05-16 17:24:03 +0000",
@@ -1882,6 +1906,7 @@
       "cobblestone_slab": "2023-05-21 11:39:34 +0000",
       "dark_oak_slab": "2023-05-17 20:09:44 +0000",
       "polished_andesite_slab": "2023-05-19 17:42:05 +0000",
+      "purpur_slab": "2023-05-23 20:20:32 +0000",
       "smooth_stone_slab": "2023-05-17 18:45:45 +0000"
     },
     "done": false
@@ -2318,16 +2343,19 @@
       "protection3": "2023-05-21 13:29:26 +0000",
       "protection4": "2023-05-19 19:54:23 +0000",
       "fire_protection4": "2023-05-21 11:13:23 +0000",
+      "fortune2": "2023-05-23 20:22:45 +0000",
       "power4": "2023-05-19 20:45:04 +0000",
       "power1": "2023-05-17 15:13:36 +0000",
       "power2": "2023-05-17 17:50:04 +0000",
       "fortune3": "2023-05-18 20:15:21 +0000",
+      "fire_protection3": "2023-05-23 20:05:44 +0000",
       "blast_protection2": "2023-05-17 21:05:33 +0000",
       "blast_protection4": "2023-05-18 20:58:02 +0000",
       "quick_charge1": "2023-05-21 14:06:30 +0000",
       "mending_book": "2023-05-21 11:45:59 +0000",
       "efficiency5": "2023-05-19 19:54:53 +0000",
       "flame": "2023-05-19 20:45:04 +0000",
+      "efficiency2": "2023-05-23 19:52:53 +0000",
       "efficiency1": "2023-05-16 18:56:30 +0000",
       "efficiency4": "2023-05-19 16:26:20 +0000",
       "efficiency3": "2023-05-16 18:56:08 +0000",
@@ -2346,6 +2374,7 @@
       "fire_protection3_book": "2023-05-19 20:22:39 +0000",
       "sharpness5": "2023-05-21 11:21:03 +0000",
       "sharpness4": "2023-05-21 11:14:02 +0000",
+      "sharpness3": "2023-05-23 20:29:14 +0000",
       "frost_walker2": "2023-05-21 15:06:47 +0000",
       "vanishing_curse": "2023-05-17 20:48:07 +0000"
     },
@@ -2630,6 +2659,7 @@
   "blazeandcave:mining/mineral_collection": {
     "criteria": {
       "iron_block": "2023-05-17 21:05:41 +0000",
+      "diamond_block": "2023-05-23 21:04:54 +0000",
       "lapis_block": "2023-05-16 19:56:22 +0000",
       "raw_copper_block": "2023-05-16 18:02:23 +0000",
       "gold_block": "2023-05-16 19:21:23 +0000",
@@ -3431,9 +3461,10 @@
     "criteria": {
       "diamond_pickaxe": "2023-05-16 18:56:30 +0000",
       "diamond_axe": "2023-05-16 18:56:08 +0000",
-      "diamond_hoe": "2023-05-16 18:48:44 +0000"
+      "diamond_hoe": "2023-05-16 18:48:44 +0000",
+      "diamond_shovel": "2023-05-23 20:22:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "blazeandcave:bacap/time_to_farm": {
     "criteria": {
@@ -4354,8 +4385,10 @@
       "music_disc_stal": "2023-05-17 20:29:31 +0000",
       "music_disc_strad": "2023-05-17 18:35:11 +0000",
       "music_disc_13": "2023-05-21 15:41:08 +0000",
+      "music_disc_11": "2023-05-23 21:29:38 +0000",
       "music_disc_mall": "2023-05-21 15:23:07 +0000",
       "music_disc_chirp": "2023-05-19 18:21:41 +0000",
+      "music_disc_wait": "2023-05-23 21:28:02 +0000",
       "music_disc_cat": "2023-05-21 14:43:26 +0000"
     },
     "done": false
@@ -4425,6 +4458,7 @@
   "blazeandcave:bacap/nether_milestone": {
     "criteria": {
       "dont_blink": "2023-05-17 20:51:10 +0000",
+      "enders_chest": "2023-05-23 20:49:02 +0000",
       "gilty": "2023-05-17 19:25:47 +0000",
       "cultural_misunderstandings": "2023-05-17 18:51:39 +0000",
       "local_brewery": "2023-05-21 15:07:23 +0000",
@@ -4849,6 +4883,7 @@
     "criteria": {
       "skeleton": "2023-05-17 19:51:35 +0000",
       "piglin": "2023-05-17 19:32:26 +0000",
+      "shulker": "2023-05-23 20:08:53 +0000",
       "piglin_brute": "2023-05-17 19:28:59 +0000"
     },
     "done": false
@@ -6022,9 +6057,11 @@
   },
   "blazeandcave:bacap/end_milestone": {
     "criteria": {
+      "off_with_his_head": "2023-05-23 20:04:43 +0000",
       "sky_high": "2023-05-21 15:43:58 +0000",
       "skys_the_limit": "2023-05-21 15:07:04 +0000",
       "uh_houston_we_have_a_problem": "2023-05-21 15:44:21 +0000",
+      "end_bricks": "2023-05-23 20:19:49 +0000",
       "void_walker": "2023-05-21 14:56:59 +0000",
       "free_the_end": "2023-05-19 20:34:28 +0000",
       "root": "2023-05-19 20:19:59 +0000",
@@ -6544,6 +6581,8 @@
   },
   "blazeandcave:end/purpurfect": {
     "criteria": {
+      "purpur_slab": "2023-05-23 20:20:32 +0000",
+      "purpur_block": "2023-05-23 20:19:47 +0000",
       "purpur_pillar": "2023-05-21 15:06:34 +0000"
     },
     "done": false
@@ -6665,6 +6704,114 @@
   "blazeandcave:statistics/take_to_the_skies": {
     "criteria": {
       "trigger": "2023-05-21 15:44:54 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:end/off_with_his_head": {
+    "criteria": {
+      "chorus_fruit": "2023-05-23 20:04:42 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/the_struggle_nether_ends": {
+    "criteria": {
+      "netherrack": "2023-05-23 20:13:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2023-05-23 20:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2023-05-23 20:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2023-05-23 20:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2023-05-23 20:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2023-05-23 20:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2023-05-23 20:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2023-05-23 20:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2023-05-23 20:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2023-05-23 20:19:48 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:end/end_bricks": {
+    "criteria": {
+      "end_stone_bricks": "2023-05-23 20:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2023-05-23 20:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2023-05-23 20:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2023-05-23 20:19:48 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/enders_chest": {
+    "criteria": {
+      "ender_chest": "2023-05-23 20:49:02 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/the_ghastly_eyes": {
+    "criteria": {
+      "invisible_spider": "2023-05-23 21:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2023-05-23 21:04:54 +0000"
     },
     "done": true
   },

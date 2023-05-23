@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "b50ad385-829d-3141-a216-7e7d7539ba7f",
+    "name": "Notch",
+    "created": "2023-05-23 21:00:01 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
